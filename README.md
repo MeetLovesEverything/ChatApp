@@ -1,16 +1,29 @@
-# chat_app
+![project_image](https://github.com/user-attachments/assets/4fb2976d-12da-4ab4-bcd6-5ca5d7eb7d8f)
 
-A new Flutter project.
+# Realtime Chat Application Using Flutter and Appwrite
+this is the source code for building a real-time chat application in Flutter using Appwrite.
 
-## Getting Started
+## ⚙ Tech Stack -
+- Flutter
+- Appwrite Cloud
 
-This project is a starting point for a Flutter application.
+## 💪 Features -
+- Send Text Messages in Chats (Create Read Update Delete)
+- Send Image Message in Chats (Create Read Delete)
+- Update if the user is online or not
+- Update message seen or not
+- Modify Profile Picture (Create Read Update Delete)
+- Update UI in real time
 
-A few resources to get you started if this is your first Flutter project:
+## 📔 Topics Covered -
+- Provider (State Management)
+- Shared Preferences
+- Lifecycle Handlers
+- Push Notifications
+- Appwrite Databases
+- Appwrite Authentication(Phone Login)
+- Appwrite Cloud Functions
+- Appwrite Storage Bucket
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Author -
+- [MeetLovesEverything](https://github.com/MeetLovesEverything)
